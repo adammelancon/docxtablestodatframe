@@ -5,8 +5,6 @@ import sys
 import feather
 import openpyxl
 
-#document = Document('./librefiles/2004.docx')
-
 biglist =[]
 path = './librefiles/'
 worddocs_list = []
